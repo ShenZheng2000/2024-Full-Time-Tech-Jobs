@@ -1,8 +1,12 @@
 
+# 求职资源（Resources）
+- [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
+- [2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern)
+- [Neetcode.io](https://neetcode.io/)
+
 # 美国 (USA)
 
 ## 科技 (Tech)
-
 - Amazon
 - Google
 - Nvidia
@@ -42,7 +46,7 @@
 - W&B
 - Voxel51
 - Toyota
-- Scale
+- Scale AI
 - BOSCH
 - Hugging Face
 - Sama
@@ -56,9 +60,32 @@
 - Dataminr
 - Digital Divide Data
 - Hulu
+- Intuit
+- Lyft
+- Reddit
+- Slack
+- Stripe
+- Twitch
+- Yelp
+- Veeva
+- Gecko Robotics
+- Generator Motors
+- WSC Sports
+- 3dMD
+- iMerit
+- Activeloop
+- Alegion
+- Labelbox
+- Neural Magic
+- Superb AI
+- Cogito
+- Matterport
+- Micron
+- Synthetaic
+- MathWorks
+- Carbon Robotics
 
 ## 金融 (Finance)
-
 - eBay
 - Paypal
 - Sony
@@ -77,14 +104,21 @@
 - Citadel
 - Synthesis AI
 - Iterative
-- Neural Magic
+- Belvedere Trading
+- PEAK6
+- IMC Financial Markets
+- Jane Street
+- Akuna Capital
+- PNC
+- Optiver
+- Alegion
+- Deepen
 
 ## 无人驾驶 (Autonomous Driving)
-
 - Waymo
 - Cruise
 - Zoox
-- Aurora
+- Aurora Innovation
 - Nuro
 - Tesla
 - Fyusion
@@ -98,8 +132,13 @@
 - TuSimple
 - Motional
 - Wayve
-
-TODO: add more
+- General Motors Company
+- Luminar Technologies
+- Torc Robotics
+- Embark Technology
+- RideCell, Inc.
+- Velodyne Lidar
+- AEye
 
 # 中国大陆 (Mainland China)
 
@@ -108,6 +147,7 @@ TODO: add more
 - 阿里巴巴
 - 美团
 - 京东
+- 华为
 - 百度
 - 拼多多
 - 快手
@@ -153,6 +193,8 @@ TODO: add more
 - 安德医智
 - 医准智能
 - 优必选
+- AutoDL
+- 浪潮
 
 ## 无人驾驶 (Autonomous Driving)
 - 小马智行
