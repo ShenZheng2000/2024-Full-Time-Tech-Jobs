@@ -68,7 +68,7 @@
 - Stripe
 - Twitch
 - Yelp
-- Veeva [[ASE](https://careers.veeva.com/job-search-results/?keyword=Associate%20Software%20Engineer&primary_category[]=Generation%20Veeva)]
+- Veeva [[ASE](https://careers.veeva.com/job/14066697/associate-software-engineer-seeking-2024-grads-pleasanton-ca/)]
 - Gecko Robotics [[SE](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003&gh_src=2f1f94f93us)]
 - Generator Motors
 - WSC Sports
