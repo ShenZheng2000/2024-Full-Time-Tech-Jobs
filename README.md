@@ -13,7 +13,7 @@
 - Nvidia
 - Apple
 - Microsoft
-- Tiktok
+- Tiktok [[MLE](https://careers.tiktok.com/position/7262978927186282810/detail?spread=5MWH5CQ)]
 - Qualcomm
 - Adobe
 - Hitachi
