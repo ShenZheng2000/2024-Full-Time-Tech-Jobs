@@ -68,8 +68,8 @@
 - Stripe
 - Twitch
 - Yelp
-- Veeva [ASE](https://careers.veeva.com/job-search-results/?keyword=Associate%20Software%20Engineer&primary_category[]=Generation%20Veeva)
-- Gecko Robotics [SE](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003&gh_src=2f1f94f93us)
+- Veeva [[ASE](https://careers.veeva.com/job-search-results/?keyword=Associate%20Software%20Engineer&primary_category[]=Generation%20Veeva)]
+- Gecko Robotics [[SE](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003&gh_src=2f1f94f93us)]
 - Generator Motors
 - WSC Sports
 - 3dMD
@@ -85,10 +85,10 @@
 - Synthetaic
 - MathWorks
 - Carbon Robotics
-- Roblox [SDE](https://careers.roblox.com/jobs/5221252?gh_jid=5221252&gh_src=da92d0c91)
-- WeRide.ai [SDE](https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef)
-- Palantir [PDSE](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049)
-- Sentry.io [SE](https://boards.greenhouse.io/sentry/jobs/5193895)
+- Roblox [[SE](https://careers.roblox.com/jobs/5221252?gh_jid=5221252&gh_src=da92d0c91)]
+- WeRide.ai [[SE](https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef)]
+- Palantir [[PDSE](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049)]
+- Sentry.io [[SE](https://boards.greenhouse.io/sentry/jobs/5193895)]
 
 ## 金融 (Finance)
 - eBay
