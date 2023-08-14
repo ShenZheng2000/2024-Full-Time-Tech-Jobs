@@ -148,7 +148,7 @@
 
 ## 科技 (Tech)
 - 腾讯
-- 阿里巴巴
+- 阿里巴巴 [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
 - 美团
 - 京东
 - 华为
@@ -159,7 +159,7 @@
 - 360
 - 大疆
 - 科大讯飞
-- 旷视科技
+- 旷视科技 [[秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317)]
 - 商汤科技
 - 依图科技
 - 云从科技
@@ -172,7 +172,7 @@
 - 优酷
 - 爱奇艺
 - 滴滴出行
-- 字节跳动
+- 字节跳动 [[秋招](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT)]
 - 高德地图
 - 海康威视
 - OPPO
