@@ -175,6 +175,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 
 - 腾讯 (还未开放）
 - 阿里巴巴 [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
+- 阿里达摩院 [[秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh)]
 - 美团 [[秋招](https://zhaopin.meituan.com/web/position?hiringType=1_1,1_3,1_4)]
 - 京东 [[秋招](https://campus.jd.com/#/jobs?to=present&type=present)]
 - 华为 [[秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=2#jobList)]    
@@ -209,41 +210,27 @@ This repository hosts resources and links for tech-related job opportunities spe
 - 商汤科技 (还未开放）
 - 依图科技 [[秋招](https://app.mokahr.com/campus_apply/yitu-inc/3700#/)]
 - 云从科技 (还未开放）
-- 第四范式 TODO: continue searching
-- 格灵深瞳
-- 中科视拓
-- 视见科技
-- 大恒图像
-- 特斯联
-- 深睿医疗
-- 寒武纪
-- 爱笔智能
-- 速感科技
-- 安德医智
-- 医准智能
-- 优必选
-- AutoDL
-- 浪潮
-
+- 第四范式 [[秋招](https://app.mokahr.com/campus-recruitment/4paradigm/58145#/)]
+- 格灵深瞳 [[秋招](https://www.deepglint.com/joinus)]
+- 大恒图像 [[秋招](https://www.daheng-imaging.com/index.php?m=content&c=index&a=lists&catid=29&skeyword=&cityid=79)]
+- 寒武纪 (还未开放）
 
 </details>
 
 <details>
 <summary><strong>无人驾驶 (Autonomous Driving)</strong></summary>
 
-- 小马智行
-- 文远知行
-- Momenta
-- 地平线
-- 纵目科技
-- 蔚来汽车
-- 小鹏汽车
-- 四维图新
-- 驭势科技
-- 集度汽车
-- 鉴智机器人
-- 超星未来
-- 易控智驾
-- 轻舟智航
+- 小马智行 [[秋招](https://ponyai.jobs.feishu.cn/ponycampus)]
+- 文远知行 [[秋招](https://app.mokahr.com/campus_apply/jingchi/2137#/)]
+- Momenta (还未开放）
+- 地平线 [[秋招](https://wecruit.hotjob.cn/SU64819a4f2f9d2433ba8b043a/pb/custom.html?parentKey=section_0&pageType=customize_section_0#/)]
+- 纵目科技 (还未开放）
+- 蔚来汽车 [[秋招](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7254481820200159547&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=CDRBT29)]
+- 小鹏汽车 [[秋招](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/)]
+- 驭势科技 [[秋招](https://app.mokahr.com/campus_apply/yushi/3773#/)]
+- 易控智驾 [[秋招](https://app.mokahr.com/campus-recruitment/eqhr/39786#/)]
+- 轻舟智航 (还未开放）
+- 毫末智行 [[秋招](https://career.haomoai.com/campus-recruitment/haomo/44789#/jobs?project=100074055)]
+- 元戎启行 [[秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/)]
 
 </details>
