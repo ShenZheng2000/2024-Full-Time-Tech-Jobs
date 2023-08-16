@@ -168,7 +168,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 
 # 中国大陆 (Mainland China)
 
-[[秋招]()]
+[[秋招]()
 
 <details>
 <summary><strong>科技 (Tech)</strong></summary>
