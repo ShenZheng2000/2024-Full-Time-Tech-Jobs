@@ -1,4 +1,11 @@
 
+# 介绍 (Introduction)
+
+This repository hosts resources and links for tech-related job opportunities specifically catering to new graduates in both China and the USA.
+
+这个仓库收集了针对中国和美国的新毕业生的科技相关职位机会的资源和链接。
+
+
 # 求职资源（Resources）
 - [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
 - [2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern)
