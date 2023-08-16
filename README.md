@@ -163,54 +163,53 @@
 
 [[秋招]()]
 
-
 <details>
 <summary><strong>科技 (Tech)</strong></summary>
 
-- 腾讯
+- 腾讯 (还未开放）
 - 阿里巴巴 [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
 - 美团 [[秋招](https://zhaopin.meituan.com/web/position?hiringType=1_1,1_3,1_4)]
-- 京东
-- 华为
-- 百度
-- 拼多多
-- 快手
-- 携程
-- 360
-- 大疆
-- 科大讯飞
-- 旷视科技 [[秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317)]
-- 商汤科技
-- 依图科技
-- 云从科技
-- 联想
-- 美的
-- 小米
-- 新浪
-- 搜狗
-- 网易
-- 优酷
-- 爱奇艺
-- 滴滴出行
+- 京东 [[秋招](https://campus.jd.com/#/jobs?to=present&type=present)]
+- 华为 [[秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=2#jobList)]    
+- 百度 [[秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE)]   
+- 拼多多 [[秋招](https://careers.pinduoduo.com/campus/grad)]
+- 快手 (还未开放）
+- 携程 [[秋招](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE)]
+- 大疆 （网申截止）
+- 联想 [[秋招](https://talent.lenovo.com.cn/campus)]
+- 美的 (还未开放）
+- 小米 (还未开放）
+- 新浪 [[秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307)]
+- 搜狐 [[秋招](https://app.mokahr.com/campus_apply/sohu/5682#/)]   
+- 滴滴出行 [[秋招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)]
 - 字节跳动 [[秋招](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT)]
-- 高德地图
-- 海康威视
-- OPPO
-- VIVO
-- 哔哩哔哩
-- 苏宁
-- 第四范式
+- 高德地图 [[秋招](https://talent.amap.com/campus/position-list?campusType=freshman&lang=zh)] 
+- 海康威视 [[秋招](https://campushr.hikvision.com/school?schoolType=nozxf)]  
+- OPPO  [[秋招](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate)]
+- 哔哩哔哩 [[秋招](https://jobs.bilibili.com/campus/positions?type=3)]  
+- 美图 [[秋招](https://campus.meitu.com/campus-recruitment/meitu/54138/#/jobs?zhineng=82990)]
+- 荣耀 [[秋招](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html)]
+- 京东方 (还未开放）
+
+</details>
+
+
+<details>
+<summary><strong>人工智能 (AI)</strong></summary>
+
+- 科大讯飞 [[秋招](https://campus.iflytek.com/official-pc/jobList?index=3)]
+- 旷视科技 [[秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317)]
+- 商汤科技 (还未开放）
+- 依图科技 [[秋招](https://app.mokahr.com/campus_apply/yitu-inc/3700#/)]
+- 云从科技 (还未开放）
+- 第四范式 TODO: continue searching
 - 格灵深瞳
 - 中科视拓
 - 视见科技
 - 大恒图像
 - 特斯联
 - 深睿医疗
-- 美图
 - 寒武纪
-- 平安科技
-- 荣耀
-- 京东方
 - 爱笔智能
 - 速感科技
 - 安德医智
@@ -219,8 +218,8 @@
 - AutoDL
 - 浪潮
 
-</details>
 
+</details>
 
 <details>
 <summary><strong>无人驾驶 (Autonomous Driving)</strong></summary>
