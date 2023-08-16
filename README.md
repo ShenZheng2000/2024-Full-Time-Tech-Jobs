@@ -7,7 +7,9 @@
 
 # 美国 (USA)
 
-## 科技 (Tech)
+<details>
+<summary><strong>科技 (Tech)</strong></summary>
+
 - Amazon
 - Google
 - Nvidia
@@ -90,7 +92,11 @@
 - Palantir [[PDSE](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049)]
 - Sentry.io [[SE](https://boards.greenhouse.io/sentry/jobs/5193895)]
 
-## 金融 (Finance)
+</details>
+
+<details>
+<summary><strong>金融 (Finance)</strong></summary>
+
 - eBay
 - Paypal
 - Sony
@@ -118,7 +124,12 @@
 - Optiver
 - Deepen
 
-## 无人驾驶 (Autonomous Driving)
+</details>
+
+
+<details>
+<summary><strong>无人驾驶 (Autonomous Driving)</strong></summary>
+
 - Waymo
 - Cruise
 - Zoox
@@ -144,12 +155,21 @@
 - Velodyne Lidar
 - AEye
 
+</details>
+
+
+
 # 中国大陆 (Mainland China)
 
-## 科技 (Tech)
+[[秋招]()]
+
+
+<details>
+<summary><strong>科技 (Tech)</strong></summary>
+
 - 腾讯
 - 阿里巴巴 [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
-- 美团
+- 美团 [[秋招](https://zhaopin.meituan.com/web/position?hiringType=1_1,1_3,1_4)]
 - 京东
 - 华为
 - 百度
@@ -199,7 +219,12 @@
 - AutoDL
 - 浪潮
 
-## 无人驾驶 (Autonomous Driving)
+</details>
+
+
+<details>
+<summary><strong>无人驾驶 (Autonomous Driving)</strong></summary>
+
 - 小马智行
 - 文远知行
 - Momenta
@@ -214,3 +239,5 @@
 - 超星未来
 - 易控智驾
 - 轻舟智航
+
+</details>
