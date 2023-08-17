@@ -182,7 +182,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - 百度 [[秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE)]   
 - 拼多多 [[秋招](https://careers.pinduoduo.com/campus/grad)]
 - 快手 [[秋招](https://campus.kuaishou.cn/#/campus/jobs?pageNum=1&pageSize=10)]
-- 携程 [[秋招](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE)]
+- 携程  (还未开放）
 - 大疆 （网申截止）
 - 联想 [[秋招](https://talent.lenovo.com.cn/campus)]
 - 美的 (还未开放）
