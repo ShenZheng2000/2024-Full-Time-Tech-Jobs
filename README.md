@@ -147,7 +147,6 @@ This repository hosts resources and links for tech-related job opportunities spe
 - Woven Planet
 - Skydio
 - Pony AI
-- AutoX
 - Qcraft
 - Xpeng
 - Argo AI
@@ -173,7 +172,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 <details>
 <summary><strong>科技 (Tech)</strong></summary>
 
-- 腾讯 (还未开放）
+- 腾讯 [[秋招](https://join.qq.com/post.html?query=p_1)
 - 阿里巴巴 [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
 - 阿里达摩院 [[秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh)]
 - 美团 [[秋招](https://zhaopin.meituan.com/web/position?hiringType=1_1,1_3,1_4)]
@@ -232,5 +231,6 @@ This repository hosts resources and links for tech-related job opportunities spe
 - 轻舟智航 (还未开放）
 - 毫末智行 [[秋招](https://career.haomoai.com/campus-recruitment/haomo/44789#/jobs?project=100074055)]
 - 元戎启行 [[秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/)]
+- AutoX[[校招](https://app.mokahr.com/campus_apply/autox/6313#/jobs?location=%E6%B7%B1%E5%9C%B3%E5%B8%82)]
 
 </details>
