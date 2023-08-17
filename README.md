@@ -136,6 +136,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 
 <details>
 <summary><strong>无人驾驶 (Autonomous Driving)</strong></summary>
+  
 - Applied Intuition [[Jobs](https://www.appliedintuition.com/careers)]
 - Waymo
 - Cruise
