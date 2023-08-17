@@ -174,6 +174,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 
 - 腾讯 [[秋招](https://join.qq.com/post.html?query=p_1)]
 - 阿里巴巴 [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
+- 阿里淘天 [[秋招](https://talent.taotian.com/campus/home)]
 - 阿里达摩院 [[秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh)]
 - 美团 [[秋招](https://zhaopin.meituan.com/web/position?hiringType=1_1,1_3,1_4)]
 - 京东 [[秋招](https://campus.jd.com/#/jobs?to=present&type=present)]
