@@ -102,39 +102,6 @@ This repository hosts resources and links for tech-related job opportunities spe
 </details>
 
 <details>
-<summary><strong>金融 (Finance)</strong></summary>
-
-- eBay
-- Paypal
-- Sony
-- Bloomberg
-- JPMorgan Chase
-- Goldman Sachs
-- Citigroup
-- Morgan Stanley
-- Wells Fargo
-- Bank of America
-- American Express
-- BlackRock
-- Capital One
-- Charles Schwab
-- 2Sigma
-- Citadel
-- Synthesis AI
-- Iterative
-- Belvedere Trading
-- PEAK6
-- IMC Financial Markets
-- Jane Street
-- Akuna Capital
-- PNC
-- Optiver
-- Deepen
-
-</details>
-
-
-<details>
 <summary><strong>无人驾驶 (Autonomous Driving)</strong></summary>
   
 - Applied Intuition [[Jobs](https://www.appliedintuition.com/careers)]
