@@ -185,7 +185,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - 大疆 （网申截止）
 - 联想 [[秋招](https://talent.lenovo.com.cn/campus)]
 - 美的 (还未开放）
-- 小米 (还未开放）
+- 小米 [[秋招](https://hr.xiaomi.com/campus)]
 - 新浪 [[秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307)]
 - 搜狐 [[秋招](https://app.mokahr.com/campus_apply/sohu/5682#/)]   
 - 滴滴出行 [[秋招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)]
