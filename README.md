@@ -167,12 +167,12 @@ This repository hosts resources and links for tech-related job opportunities spe
 
 # 中国大陆 (Mainland China)
 
-[[秋招]()
+[[秋招]()]
 
 <details>
 <summary><strong>科技 (Tech)</strong></summary>
 
-- 腾讯 [[秋招](https://join.qq.com/post.html?query=p_1)
+- 腾讯 [[秋招](https://join.qq.com/post.html?query=p_1)]
 - 阿里巴巴 [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
 - 阿里达摩院 [[秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh)]
 - 美团 [[秋招](https://zhaopin.meituan.com/web/position?hiringType=1_1,1_3,1_4)]
