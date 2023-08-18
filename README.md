@@ -22,11 +22,11 @@ This repository hosts resources and links for tech-related job opportunities spe
 - Nvidia
 - Apple
 - Microsoft
-- Tiktok [[MLE](https://careers.tiktok.com/position/7262978927186282810/detail?spread=5MWH5CQ)]
+- **Tiktok** [[MLE](https://careers.tiktok.com/position/7262978927186282810/detail?spread=5MWH5CQ)]
 - Veeva [[ASE](https://careers.veeva.com/job/14066697/associate-software-engineer-seeking-2024-grads-pleasanton-ca/)]
 - Gecko Robotics [[SE](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003&gh_src=2f1f94f93us)]
 - Roblox [[SE](https://careers.roblox.com/jobs/5221252?gh_jid=5221252&gh_src=da92d0c91)]
-- WeRide.ai [[SE](https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef)]
+- **WeRide.ai** [[SE](https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef)]
 - Palantir [[PDSE](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049)]
 - Sentry.io [[SE](https://boards.greenhouse.io/sentry/jobs/5193895)]
 - Qualcomm
@@ -104,7 +104,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 <details>
 <summary><strong>无人驾驶 (Autonomous Driving)</strong></summary>
   
-- Applied Intuition [[Jobs](https://www.appliedintuition.com/careers)]
+- **Applied Intuition** [[Jobs](https://www.appliedintuition.com/careers)]
 - Waymo
 - Cruise
 - Zoox
@@ -140,30 +140,30 @@ This repository hosts resources and links for tech-related job opportunities spe
 <details>
 <summary><strong>科技 (Tech)</strong></summary>
 
-- 腾讯 [[秋招](https://join.qq.com/post.html?query=p_1)]
-- 阿里巴巴 [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
-- 阿里淘天 [[秋招](https://talent.taotian.com/campus/home)]
-- 阿里达摩院 [[秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh)]
-- 美团 [[秋招](https://zhaopin.meituan.com/web/position?hiringType=1_1,1_3,1_4)]
-- 京东 [[秋招](https://campus.jd.com/#/jobs?to=present&type=present)]
-- 华为 [[秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=2#jobList)]    
-- 百度 [[秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE)]   
+- **腾讯** [[秋招](https://join.qq.com/post.html?query=p_1)]
+- **阿里巴巴** [[秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&)]
+- **阿里淘天** [[秋招](https://talent.taotian.com/campus/home)]
+- **阿里达摩院** [[秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh)]
+- **美团** [[秋招](https://zhaopin.meituan.com/web/position?hiringType=1_1,1_3,1_4)]
+- **京东** [[秋招](https://campus.jd.com/#/jobs?to=present&type=present)]
+- **华为** [[秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=2#jobList)]    
+- **百度** [[秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE)]   
 - 拼多多 [[秋招](https://careers.pinduoduo.com/campus/grad)]
-- 快手 [[秋招](https://campus.kuaishou.cn/#/campus/jobs?pageNum=1&pageSize=10)]
+- **快手** [[秋招](https://campus.kuaishou.cn/#/campus/jobs?pageNum=1&pageSize=10)]
 - 携程  (还未开放）
 - 大疆 （网申截止）
-- 联想 [[秋招](https://talent.lenovo.com.cn/campus)]
+- **联想** [[秋招](https://talent.lenovo.com.cn/campus)]
 - 美的 (还未开放）
-- 小米 [[秋招](https://hr.xiaomi.com/campus)]
+- **小米** [[秋招](https://hr.xiaomi.com/campus)]
 - 新浪 [[秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307)]
 - 搜狐 [[秋招](https://app.mokahr.com/campus_apply/sohu/5682#/)]   
-- 滴滴出行 [[秋招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)]
-- 字节跳动 [[秋招](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT)]
-- 高德地图 [[秋招](https://talent.amap.com/campus/position-list?campusType=freshman&lang=zh)] 
-- 海康威视 [[秋招](https://campushr.hikvision.com/school?schoolType=nozxf)]  
-- OPPO  [[秋招](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate)]
-- 哔哩哔哩 [[秋招](https://jobs.bilibili.com/campus/positions?type=3)]  
-- 美图 [[秋招](https://campus.meitu.com/campus-recruitment/meitu/54138/#/jobs?zhineng=82990)]
+- **滴滴出行** [[秋招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)]
+- **字节跳动** [[秋招](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT)]
+- **高德地图** [[秋招](https://talent.amap.com/campus/position-list?campusType=freshman&lang=zh)] 
+- **海康威视** [[秋招](https://campushr.hikvision.com/school?schoolType=nozxf)]  
+- **OPPO**  [[秋招](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate)]
+- **哔哩哔哩** [[秋招](https://jobs.bilibili.com/campus/positions?type=3)]  
+- **美图** [[秋招](https://campus.meitu.com/campus-recruitment/meitu/54138/#/jobs?zhineng=82990)]
 - 荣耀 [[秋招](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html)]
 - 京东方 (还未开放）
 
@@ -173,10 +173,10 @@ This repository hosts resources and links for tech-related job opportunities spe
 <details>
 <summary><strong>人工智能 (AI)</strong></summary>
 
-- 科大讯飞 [[秋招](https://campus.iflytek.com/official-pc/jobList?index=3)]
-- 旷视科技 [[秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317)]
+- **科大讯飞** [[秋招](https://campus.iflytek.com/official-pc/jobList?index=3)]
+- **旷视科技** [[秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317)]
 - 商汤科技 (还未开放）
-- 依图科技 [[秋招](https://app.mokahr.com/campus_apply/yitu-inc/3700#/)]
+- **依图科技** [[秋招](https://app.mokahr.com/campus_apply/yitu-inc/3700#/)]
 - 云从科技 (还未开放）
 - 第四范式 [[秋招](https://app.mokahr.com/campus-recruitment/4paradigm/58145#/)]
 - 格灵深瞳 [[秋招](https://www.deepglint.com/joinus)]
@@ -188,8 +188,8 @@ This repository hosts resources and links for tech-related job opportunities spe
 <details>
 <summary><strong>无人驾驶 (Autonomous Driving)</strong></summary>
 
-- 小马智行 [[秋招](https://ponyai.jobs.feishu.cn/ponycampus)]
-- 文远知行 [[秋招](https://app.mokahr.com/campus_apply/jingchi/2137#/)]
+- **小马智行** [[秋招](https://ponyai.jobs.feishu.cn/ponycampus)]
+- **文远知行** [[秋招](https://app.mokahr.com/campus_apply/jingchi/2137#/)]
 - Momenta (还未开放）
 - 地平线 [[秋招](https://wecruit.hotjob.cn/SU64819a4f2f9d2433ba8b043a/pb/custom.html?parentKey=section_0&pageType=customize_section_0#/)]
 - 纵目科技 (还未开放）
