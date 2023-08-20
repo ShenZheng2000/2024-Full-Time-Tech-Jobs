@@ -24,6 +24,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - Nvidia
 - Apple
 - Microsoft
+- **Intel** [[DS](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/College-Graduate---Data-Science--BS-MS-_JR0247231?utm_source=Simplify)]
 - **Tiktok** [[MLE](https://careers.tiktok.com/position/7262978927186282810/detail?spread=5MWH5CQ)]
 - Veeva [[ASE](https://careers.veeva.com/job/14066697/associate-software-engineer-seeking-2024-grads-pleasanton-ca/)]
 - Gecko Robotics [[SE](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003&gh_src=2f1f94f93us)]
