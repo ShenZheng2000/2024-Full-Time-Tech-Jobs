@@ -169,6 +169,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - **美图** [[秋招](https://campus.meitu.com/campus-recruitment/meitu/54138/#/jobs?zhineng=82990)]
 - 荣耀 [[秋招](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html)]
 - 京东方 (还未开放）
+- **360** [[秋招](https://360campus.zhiye.com/jobs)]
 
 </details>
 
