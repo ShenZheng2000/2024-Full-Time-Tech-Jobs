@@ -30,7 +30,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - Gecko Robotics [[SE](https://www.geckorobotics.com/careers/apply?gh_jid=5695200003&gh_src=2f1f94f93us)]
 - Roblox [[SE](https://careers.roblox.com/jobs/5221252?gh_jid=5221252&gh_src=da92d0c91)]
 - **WeRide.ai** [[SE](https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef)]
-- Scale.ai [[MLE](https://scale.com/careers/4305880005)]
+- **Scale.ai** [[MLE](https://scale.com/careers/4305880005)]
 - Palantir [[PDSE](https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049)]
 - Sentry.io [[SE](https://boards.greenhouse.io/sentry/jobs/5193895)]
 - Qualcomm
