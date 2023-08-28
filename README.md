@@ -11,6 +11,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 # 求职资源（Resources）
 - [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
 - [2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern)
+- [Campus 2024](https://campus2024.top/)  
 - [Neetcode.io](https://neetcode.io/)
 - [Big-O Sheet](https://github.com/ReaVNaiL/big-o-complexity-cheat-sheet)
 
