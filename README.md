@@ -18,7 +18,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - [Big-O Sheet](https://github.com/ReaVNaiL/big-o-complexity-cheat-sheet)
 - [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/New-Grad-Positions)
 
-# 美国 (USA)
+# 美国 (USA) (No longer updated)
 
 <details>
 <summary><strong>科技 (Tech)</strong></summary>
