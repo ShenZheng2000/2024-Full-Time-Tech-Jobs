@@ -158,10 +158,10 @@ This repository hosts resources and links for tech-related job opportunities spe
 - **百度** [[秋招](https://talent.baidu.com/jobs/list?recruitType=GRADUATE)]   
 - 拼多多 [[秋招](https://careers.pinduoduo.com/campus/grad)]
 - **快手** [[秋招](https://campus.kuaishou.cn/#/campus/jobs?pageNum=1&pageSize=10)]
-- 携程  (还未开放）
+- **携程**  [[秋招](https://campus.ctrip.com/campus-recruitment/trip/37757/#/)]
 - 大疆 （网申截止）
 - **联想** [[秋招](https://talent.lenovo.com.cn/campus)]
-- 美的 (还未开放）
+- 美的 [[秋招](https://careers.midea.com/schoolOut/home)]
 - **小米** [[秋招](https://hr.xiaomi.com/campus)]
 - 新浪 [[秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307)]
 - 搜狐 [[秋招](https://app.mokahr.com/campus_apply/sohu/5682#/)]   
@@ -173,9 +173,10 @@ This repository hosts resources and links for tech-related job opportunities spe
 - **哔哩哔哩** [[秋招](https://jobs.bilibili.com/campus/positions?type=3)]  
 - **美图** [[秋招](https://campus.meitu.com/campus-recruitment/meitu/54138/#/jobs?zhineng=82990)]
 - 荣耀 [[秋招](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html)]
-- 京东方 (还未开放）
 - **360** [[秋招](https://360campus.zhiye.com/jobs)]
-
+- vivo [[秋招](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=1&showComp=true)]
+- 网易 [[秋招](https://campus.163.com/app/job/position?id=55)]
+- 顺丰 [[秋招](https://campus.sf-express.com/#/homePage)]
 </details>
 
 
@@ -199,7 +200,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 
 - **小马智行** [[秋招](https://ponyai.jobs.feishu.cn/ponycampus)]
 - **文远知行** [[秋招](https://app.mokahr.com/campus_apply/jingchi/2137#/)]
-- Momenta (还未开放）
+- Momenta [[秋招](https://momenta.jobs.feishu.cn/campus/?spread=UUN2S82)]
 - 地平线 [[秋招](https://wecruit.hotjob.cn/SU64819a4f2f9d2433ba8b043a/pb/custom.html?parentKey=section_0&pageType=customize_section_0#/)]
 - 纵目科技 (还未开放）
 - 蔚来汽车 [[秋招](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7254481820200159547&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=CDRBT29)]
@@ -209,6 +210,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - 轻舟智航 (还未开放）
 - 毫末智行 [[秋招](https://career.haomoai.com/campus-recruitment/haomo/44789#/jobs?project=100074055)]
 - 元戎启行 [[秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/)]
-- AutoX[[校招](https://app.mokahr.com/campus_apply/autox/6313#/jobs?location=%E6%B7%B1%E5%9C%B3%E5%B8%82)]
+- AutoX[[秋招](https://app.mokahr.com/campus_apply/autox/6313#/jobs?location=%E6%B7%B1%E5%9C%B3%E5%B8%82)]
+- 极氪 [[秋招](https://app.mokahr.com/campus-recruitment/geely/98147?sourceToken=7aece89dc565a56cab5729f0633412eb#/)]
 
 </details>
