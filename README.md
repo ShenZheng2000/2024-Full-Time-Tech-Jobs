@@ -13,6 +13,8 @@ This repository hosts resources and links for tech-related job opportunities spe
 - [2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern)
 - [Campus 2024](https://campus2024.top/)  
 - [Neetcode.io](https://neetcode.io/)
+- [LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/tree/master)
+- [Leetcode_Interviews_Questions](https://github.com/ShenZheng2000/Leetcode_Interviews_Questions)
 - [Big-O Sheet](https://github.com/ReaVNaiL/big-o-complexity-cheat-sheet)
 - [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/New-Grad-Positions)
 
