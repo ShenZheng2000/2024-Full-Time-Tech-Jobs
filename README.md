@@ -14,7 +14,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - [Campus 2024](https://campus2024.top/)  
 - [Neetcode.io](https://neetcode.io/)
 - [Big-O Sheet](https://github.com/ReaVNaiL/big-o-complexity-cheat-sheet)
-- [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Jobs)
+- [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/New-Grad-Positions)
 
 # 美国 (USA)
 
