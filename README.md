@@ -191,7 +191,7 @@ This repository hosts resources and links for tech-related job opportunities spe
 - 第四范式 [[秋招](https://app.mokahr.com/campus-recruitment/4paradigm/58145#/)]
 - 格灵深瞳 [[秋招](https://www.deepglint.com/joinus)]
 - 大恒图像 [[秋招](https://www.daheng-imaging.com/index.php?m=content&c=index&a=lists&catid=29&skeyword=&cityid=79)]
-- 寒武纪 (还未开放）
+- 寒武纪 [[秋招](https://app.mokahr.com/campus_apply/cambricon/44201#/)]
 
 </details>
 
