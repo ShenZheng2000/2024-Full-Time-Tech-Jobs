@@ -8,15 +8,16 @@ This repository hosts resources and links for tech-related job opportunities spe
 **粗体** => 已经投递
 
 
-# 求职资源（Resources）
+# 求职网站（Job Websites）
 - [SDE New Grad](https://jobpulse.fyi/Software-Engineer-NewGrad)
 - [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
+- [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/New-Grad-Positions)
 - [Campus 2024](https://campus2024.top/)  
+
+# 刷题资源 (Leetcode Resources)
 - [Neetcode.io](https://neetcode.io/)
 - [LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/tree/master)
 - [Leetcode_Interviews_Questions](https://github.com/ShenZheng2000/Leetcode_Interviews_Questions)
-- [Big-O Sheet](https://github.com/ReaVNaiL/big-o-complexity-cheat-sheet)
-- [2024-New-Grad-Tech-Jobs](https://github.com/SimplifyJobs/New-Grad-Positions)
 
 # 美国 (USA) (No longer updated)
 
