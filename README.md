@@ -16,8 +16,9 @@ This repository hosts resources and links for tech-related job opportunities spe
 
 # 刷题资源 (Leetcode Resources)
 - [Neetcode.io](https://neetcode.io/)
-- [LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/tree/master)
+- LeetCode-Questions-CompanyWise [[link1](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/tree/master)] [[link2](https://github.com/hxu296/leetcode-company-wise-problems-2022#tiktok)]
 - [Leetcode_Interviews_Questions](https://github.com/ShenZheng2000/Leetcode_Interviews_Questions)
+
 
 # 美国 (USA) (No longer updated)
 
